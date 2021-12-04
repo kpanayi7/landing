@@ -1,0 +1,12 @@
+.footer {
+  height: auto;
+  padding: 60px 0;
+  background-color: rgba(25,25,25,1);
+  width: 100%;
+  text-align: center;
+  margin: auto;
+}
+
+.footer h3 {
+  color: rgba(200,200,200,1.0);
+}
